@@ -12,6 +12,7 @@
 <a href = 'https://www.twitter.com/krypt0c'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/krypt0c'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href = 'https://www.hukari.tech'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/jake-hukari-9606a420a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linkedin.svg"/></a> 
 
 #
 ![Krypt0c's GitHub stats](https://github-readme-stats.vercel.app/api?username=krypt0c&show_icons=true&theme=radical)
